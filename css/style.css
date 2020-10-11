@@ -34,6 +34,11 @@ body{
 	background-color: #EFFBFB;
 	text-align: center;
 	align-self: center;
+	text-decoration-color: #00b3b3;
+}
+
+.item2 h1{
+	color: #00b3b3;
 }
 
 
