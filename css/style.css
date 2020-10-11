@@ -43,7 +43,7 @@ body{
 	border: 1px #ccc solid;
 	padding: 1em 0;
 	background-color: #e6ffff;
-	box-shadow: 0px 0px 10px var(--clr-gray200);
+	box-shadow: 0px 0px 9px var(--clr-gray200);
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
